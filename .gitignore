@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+output/
+sample_photos/
+downloaded_images/
+usage_history.json
