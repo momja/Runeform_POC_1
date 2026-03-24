@@ -54,6 +54,6 @@ runeform/
 
 Proof of concept. Immich integration is fully mocked. Rendering uses Pillow (production target: pycairo). Five archetypes defined. URL intake uses Claude for structured extraction and image identification.
 
-![](screenshot_1.jpg)
+![](screenshot_1.png)
 
-![](screenshot_2.jpg)
+![](screenshot_2.png)
